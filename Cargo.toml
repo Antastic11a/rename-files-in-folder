@@ -1,7 +1,9 @@
 [package]
 name = "rename_files_in_folder"
-version = "0.1.0"
+version = "1.0.0"
+authors = ["Antastic <antastic11a@gmail.com>"]
 edition = "2021"
+license = "GNU GPLv3" 
 
 [[bin]]
 name = "run_rename_files_in_folder"
